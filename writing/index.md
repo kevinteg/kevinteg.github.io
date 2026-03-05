@@ -1,10 +1,7 @@
 ---
-title: "[Your Name]"
+title: Writing
 ---
 
-# [Your Name]
+# Writing
 
-[TODO: one-liner about yourself]
-
-- [Resume](/resume/)
-- [Writing](/writing/)
+- [Example Post](/writing/example-post/) — A stub to prove the pipeline works.
