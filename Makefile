@@ -16,7 +16,7 @@ pages:
 		--template=templates/page.html \
 		--css=/css/main.css
 
-# Build the resume — HTML + PDF
+# Build the resume — HTML + PDFs (full and minimal versions)
 resume:
 	@mkdir -p _site/resume
 	pandoc resume/index.md \
@@ -27,7 +27,8 @@ resume:
 		--css=/css/resume.css
 	pandoc resume/index.md \
 		-o _site/resume/resume.pdf \
-		--pdf-engine=typst
+		--pdf-engine=typst \
+		--include-in-header=templates/resume.typ
 
 # Build all writing posts
 writing:
