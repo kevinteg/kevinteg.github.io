@@ -12,6 +12,8 @@ $endfor$
 </head>
 <body>
 
+$if(hide-nav)$
+$else$
 <nav class="site-nav">
   <a href="/">Home</a>
   <div class="nav-links">
@@ -19,6 +21,7 @@ $endfor$
     <a href="/writing/">Writing</a>
   </div>
 </nav>
+$endif$
 
 <main class="page-wrapper">
 $body$

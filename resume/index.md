@@ -15,10 +15,6 @@ Seattle / Remote · [kevin@tegtmeier.me](mailto:kevin@tegtmeier.me) · [kevinteg
 
 I'm an avid learner who enjoys being a force multiplier—enabling and mentoring engineers, thinking strategically to avoid unnecessary work and technical debt.
 
-```{=html}
-<p><a href="/resume/resume.pdf">Download PDF</a></p>
-```
-
 ---
 
 ## Experience

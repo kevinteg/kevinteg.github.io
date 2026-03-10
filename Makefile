@@ -6,6 +6,7 @@ all: assets pages resume writing
 assets:
 	@mkdir -p _site/css
 	cp css/*.css _site/css/
+	cp profile.jpg _site/
 
 # Build the homepage
 pages:
