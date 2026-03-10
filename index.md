@@ -4,7 +4,9 @@ hide-nav: true
 ---
 
 <div class="hero">
+
 <img src="/profile.jpg" alt="Kevin Tegtmeier" class="profile-photo">
+
 <div class="hero-text">
 
 # Kevin Tegtmeier
@@ -12,6 +14,7 @@ hide-nav: true
 Software developer in Seattle. I like digging into hard problems, making teams more effective, and learning how things work.
 
 </div>
+
 </div>
 
 ---
