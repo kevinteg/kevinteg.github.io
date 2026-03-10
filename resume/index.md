@@ -63,7 +63,7 @@ Production engineer on Top500 supercomputers (ASCI Q, Lightning). Contributed Xb
 
 **Languages:** Java, Python, Ruby
 
-**Infrastructure:** Linux, Terraform, Debian Packaging, Distributed Systems
+**Infrastructure:** Linux, Cloud Computing, HPC
 
 ---
 
