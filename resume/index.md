@@ -1,5 +1,6 @@
 ---
 title: "Kevin Tegtmeier — Resume"
+mainfont: "New Computer Modern"
 ---
 
 # Kevin Tegtmeier

@@ -1,4 +1,7 @@
 // Resume-specific Typst overrides
+// Set a default font (required by Pandoc's Typst template)
+#let font = ("Linux Libertine", "New Computer Modern")
+
 // Wider horizontal rules (full width)
 #let horizontalrule = line(length: 100%, stroke: 0.5pt + gray)
 
