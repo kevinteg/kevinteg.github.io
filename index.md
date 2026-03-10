@@ -1,10 +1,8 @@
 ---
-title: "[Your Name]"
+title: "Kevin Tegtmeier"
 ---
 
-# [Your Name]
-
-[TODO: one-liner about yourself]
+I'm a software developer in Seattle who enjoys digging into hard problems and making teams more effective. Currently at Oracle Cloud Infrastructure.
 
 - [Resume](/resume/)
 - [Writing](/writing/)
