@@ -28,7 +28,8 @@ resume:
 	pandoc resume/index.md \
 		-o _site/resume/resume.pdf \
 		--pdf-engine=typst \
-		--include-in-header=templates/resume.typ
+		--include-in-header=templates/resume.typ \
+		-M title=
 
 # Build all writing posts
 writing:
