@@ -13,7 +13,7 @@ Seattle / Remote · [kevin@tegtmeier.me](mailto:kevin@tegtmeier.me) · [kevinteg
 
 ## About Me
 
-Avid learner and force multiplier. I enjoy enabling and mentoring engineers, thinking strategically to avoid unnecessary work and technical debt.
+Avid learner and force multiplier. I enjoy enabling and mentoring engineers, and thinking strategically to avoid unnecessary work and technical debt. Excited to apply AI to accelerate engineering workflows and close the gap between ideation and implementation.
 
 ---
 
@@ -21,11 +21,9 @@ Avid learner and force multiplier. I enjoy enabling and mentoring engineers, thi
 
 ### Principal SDE — Oracle Cloud Infrastructure (2015–Present)
 
-**Techops (2025–Present)** · Incident commander for large-scale OCI and AI datacenter events.
+**Techops (current)** · Incident commander for large-scale OCI and AI datacenter events.
 
-**Management (2023–2025)** · Managed Network Automation workflows team (8-12 engineers): bulk config push, firmware upgrades, password rotations. Promoted two engineers. Absorbed another team responsible for safety checks and network device boot scripts.
-
-**NTP** · Owned the Stratum 2 NTP service; fixed long-standing syncing issues that caused overnight pages—eliminated false positives and coordinated cross-org fixes.
+**Management (~2 years)** · Managed Network Automation workflows team (up to 12 engineers): bulk config push, firmware upgrades, password rotations. Promoted two engineers. Absorbed another team responsible for safety checks and network device boot scripts. Owned the Stratum 2 NTP service; fixed long-standing syncing issues that caused overnight pages—eliminated false positives and coordinated cross-org fixes.
 
 **OCI Workflow** · Built OCI Workflow, a Step Functions competitor. Co-designed a concise DSL after reviewing CNCF and AWS specs. Implemented the workflow decider—the core component that controls execution order. Developed a workflow definition validator used by various stages in the creation logic.
 
@@ -53,13 +51,13 @@ Early phase incident management in tier one support. Built monitoring for Kindle
 
 ### Scientist 2 — Los Alamos National Laboratory (2004–2008)
 
-Production engineer on Top500 supercomputers (ASCI Q, Lightning). Contributed Xbootfs to the xcpu project—reduced supercomputer boot from 30 min to <1 min using peer-to-peer distribution. Co-authored and presented poster at SuperComputing 2007 on Mongo, a synchronized pull drop-in replacement for syslog.
+Production engineer on Top500 supercomputers (ASCI Q, Lightning). Contributed Xbootfs to the xcpu project—reduced supercomputer boot from 30 min to <1 min using peer-to-peer distribution. Co-authored and presented poster at SuperComputing 2007 on Mongo (unrelated to MongoDB), a synchronized pull drop-in replacement for syslog.
 
 ---
 
 ## Skills
 
-**AI-Assisted Development:** Claude Code, Cline, Codex, RAG
+**AI-Assisted Development:** Claude Code, Cline, Codex
 
 **Languages:** Java, Python, Ruby
 
