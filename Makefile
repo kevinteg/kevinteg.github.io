@@ -26,7 +26,8 @@ resume:
 		--standalone \
 		--template=templates/resume.html \
 		--css=/css/main.css \
-		--css=/css/resume.css
+		--css=/css/resume.css \
+		-f markdown+raw_html
 	pandoc resume/index.md \
 		-o _site/resume/resume.pdf \
 		--pdf-engine=typst \
@@ -40,7 +41,8 @@ writing:
 		-o _site/writing/index.html \
 		--standalone \
 		--template=templates/page.html \
-		--css=/css/main.css
+		--css=/css/main.css \
+		-f markdown+raw_html
 	@for dir in writing/*/; do \
 		slug=$$(basename "$$dir"); \
 		if [ -f "$$dir/index.md" ]; then \
@@ -49,7 +51,8 @@ writing:
 				-o "_site/writing/$$slug/index.html" \
 				--standalone \
 				--template=templates/page.html \
-				--css=/css/main.css; \
+				--css=/css/main.css \
+				-f markdown+raw_html; \
 		fi; \
 	done
 
