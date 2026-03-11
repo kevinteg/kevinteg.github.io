@@ -15,7 +15,8 @@ pages:
 		-o _site/index.html \
 		--standalone \
 		--template=templates/page.html \
-		--css=/css/main.css
+		--css=/css/main.css \
+		-f markdown+raw_html
 
 # Build the resume — HTML + PDFs (full and minimal versions)
 resume:

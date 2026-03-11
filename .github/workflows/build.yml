@@ -28,6 +28,11 @@ jobs:
       - name: Install Typst
         uses: typst-community/setup-typst@v4
 
+      - name: Check versions
+        run: |
+          pandoc --version
+          typst --version
+
       - name: Build site
         run: make all
 
